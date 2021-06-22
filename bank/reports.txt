@@ -1,0 +1,13 @@
+Client was created.
+Account was created.
+Client was created.
+View operation was performed
+New Account with ID: null was created.
+New Account with ID: null was created.
+Account with ID: 2 was updated.
+Account with ID: 2 was deleted.
+View operation was performed
+New Account with ID: null was created.
+New Account with ID: null was created.
+New Client with ID: null was created.
+Transfer from account ID: 4to account ID: 3 was made.(Amount: 200)
